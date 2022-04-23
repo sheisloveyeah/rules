@@ -1,4 +1,4 @@
-# Porn
+# Don't Watch
 DOMAIN-SUFFIX,phncdn.com,Pornhub
 DOMAIN-SUFFIX,phprcdn.com,Pornhub
 DOMAIN-SUFFIX,pornhub.com,Pornhub
@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,iwant-sex.com
 DOMAIN-SUFFIX,avple.tv
 DOMAIN-SUFFIX,badassdownloader.com
 
-#Torrents
+# Don't Download
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,BitComet.exe
 PROCESS-NAME,fdm.exe
