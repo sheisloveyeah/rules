@@ -1,13 +1,13 @@
 ;日本
 
 # 毎日キレイ
-DOMAIN-SUFFIX,mainichikirei.jp
+DOMAIN-SUFFIX,mainichikirei.jp,JapanMedia
 
 # クランクイン！
-DOMAIN-SUFFIX,crank-in.net
+DOMAIN-SUFFIX,crank-in.net,JapanMedia
 
 # MANTANWEB
-DOMAIN-SUFFIX,mantan-web.jp
+DOMAIN-SUFFIX,mantan-web.jp,JapanMedia
 
 # 5ちゃんねる
-DOMAIN-SUFFIX,5ch.net
+DOMAIN-SUFFIX,5ch.net,JapanMedia
