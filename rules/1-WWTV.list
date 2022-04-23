@@ -28,7 +28,7 @@ USER-AGENT,FOD*,FOD
 HOST-SUFFIX,paravi.jp,Paravi
 USER-AGENT,Paravi*.Paravi
 
-#GYAO!
+# GYAO!
 HOST-SUFFIX,yahoo.co.jp,GYAO!
 HOST-SUFFIX,yimg.jp,GYAO!
 HOST-SUFFIX,yahooapis.jp,GYAO!
@@ -36,13 +36,14 @@ HOST-SUFFIX,tidaltv.com,GYAO!
 USER-AGENT,GYAO*,GYAO!
 
 # ABEMA
-PROCESS-NAME,tv.abema
-DOMAIN-SUFFIX,abema.io
-DOMAIN-SUFFIX,abema.tv
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,ameba.jp
-DOMAIN-SUFFIX,hayabusa.io
-DOMAIN-KEYWORD,abematv.akamaized.net
+PROCESS-NAME,tv.abema,ABEMA
+DOMAIN-SUFFIX,abema.io,ABEMA
+DOMAIN-SUFFIX,abema.tv,ABEMA
+DOMAIN-SUFFIX,akamaized.net,ABEMA
+DOMAIN-SUFFIX,ameba.jp,ABEMA
+DOMAIN-SUFFIX,hayabusa.io,ABEMA
+DOMAIN-KEYWORD,abematv.akamaized.net,ABEMA
+USER-AGENT,AbemaTV*,ABEMA
 
 # U-NEXT
 DOMAIN-SUFFIX,unext.jp
@@ -139,12 +140,13 @@ IP-CIDR,203.104.157.0/24,no-resolve
 IP-CIDR,203.104.158.0/24,no-resolve
 
 # ニコニコ
-DOMAIN-SUFFIX,dmc.nico
-DOMAIN-SUFFIX,nicodic.jp
-DOMAIN-SUFFIX,nicomanga.jp
-DOMAIN-SUFFIX,niconico.com
-DOMAIN-SUFFIX,nicoseiga.jp
-DOMAIN-SUFFIX,nicovideo.jp
-DOMAIN-SUFFIX,nimg.jp
-DOMAIN-SUFFIX,simg.jp
-DOMAIN-SUFFIX,socdm.com
+USER-AGENT,Niconico*,ニコニコ
+DOMAIN-SUFFIX,dmc.nico,ニコニコ
+DOMAIN-SUFFIX,nicodic.jp,ニコニコ
+DOMAIN-SUFFIX,nicomanga.jp,ニコニコ
+DOMAIN-SUFFIX,niconico.com,ニコニコ
+DOMAIN-SUFFIX,nicoseiga.jp,ニコニコ
+DOMAIN-SUFFIX,nicovideo.jp,ニコニコ
+DOMAIN-SUFFIX,nimg.jp,ニコニコ
+DOMAIN-SUFFIX,simg.jp,ニコニコ
+DOMAIN-SUFFIX,socdm.com,ニコニコ
