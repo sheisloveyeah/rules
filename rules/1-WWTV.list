@@ -28,7 +28,7 @@ DOMAIN,measure.ic.tver.jp
 # Paravi
 DOMAIN-SUFFIX,paravi.jp
 
-#GYAO!
+# GYAO!
 PROCESS-NAME,jp.co.yahoo.gyao.android.app
 DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,yimg.jp
