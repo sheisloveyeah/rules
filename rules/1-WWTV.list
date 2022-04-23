@@ -26,7 +26,7 @@ USER-AGENT,FOD*,FOD
 
 # Paravi
 HOST-SUFFIX,paravi.jp,Paravi
-USER-AGENT,Paravi*.Paravi
+USER-AGENT,Paravi*,Paravi
 
 # GYAO!
 HOST-SUFFIX,yahoo.co.jp,GYAO!
