@@ -1,38 +1,39 @@
 # 微博
-DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,weibo.cn
-DOMAIN-SUFFIX,weibocdn.com
-DOMAIN-KEYWORD,weibo
+HOST-KEYWORD,weibo,Weibo
 
 # hulu
-DOMAIN-SUFFIX,happyon.jp
-DOMAIN-SUFFIX,hjholdings.jp
-DOMAIN-SUFFIX,hulu.jp
-DOMAIN-SUFFIX,prod.hjholdings.tv
-DOMAIN-SUFFIX,streaks.jp
-DOMAIN-SUFFIX,yb.uncn.jp
+HOST-SUFFIX,happyon.jp,hulu
+HOST-SUFFIX,hjholdings.jp,hulu
+HOST-SUFFIX,hulu.jp,hulu
+HOST-SUFFIX,prod.hjholdings.tv,hulu
+HOST-SUFFIX,streaks.jp,hulu
+HOST-SUFFIX,yb.uncn.jp,hulu
 
 # TVer
-DOMAIN-SUFFIX,dogatch.jp
-DOMAIN-SUFFIX,edge.api.brightcove.com
-DOMAIN-SUFFIX,gorin.jp
-DOMAIN-SUFFIX,screens-lab.jp
-DOMAIN-SUFFIX,tver.co.jp
-DOMAIN-SUFFIX,tver.jp
+HOST-SUFFIX,dogatch.jp,TVer
+HOST-SUFFIX,edge.api.brightcove.com,TVer
+HOST-SUFFIX,gorin.jp,TVer
+HOST-SUFFIX,screens-lab.jp,TVer
+HOST-SUFFIX,tver.co.jp,TVer
+HOST-SUFFIX,tver.jp,TVer
+USER-AGENT,TVer-Release*,TVer
 
 # FOD
-DOMAIN-SUFFIX,fujitv.co.jp
-DOMAIN-SUFFIX,stream.ne.jp
-DOMAIN,measure.ic.tver.jp
+HOST-SUFFIX,fujitv.co.jp,FOD
+HOST-SUFFIX,stream.ne.jp,FOD
+HOST,measure.ic.tver.jp,FOD
+USER-AGENT,FOD*,FOD
 
 # Paravi
-DOMAIN-SUFFIX,paravi.jp
+HOST-SUFFIX,paravi.jp,Paravi
+USER-AGENT,Paravi*.Paravi
 
 #GYAO!
-PROCESS-NAME,jp.co.yahoo.gyao.android.app
-DOMAIN-SUFFIX,yahoo.co.jp
-DOMAIN-SUFFIX,yimg.jp
-DOMAIN-SUFFIX,yahooapis.jp
+HOST-SUFFIX,yahoo.co.jp,GYAO!
+HOST-SUFFIX,yimg.jp,GYAO!
+HOST-SUFFIX,yahooapis.jp,GYAO!
+HOST-SUFFIX,tidaltv.com,GYAO!
+USER-AGENT,GYAO*,GYAO!
 
 # ABEMA
 PROCESS-NAME,tv.abema
