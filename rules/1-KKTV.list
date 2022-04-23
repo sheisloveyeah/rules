@@ -1,6 +1,6 @@
 # KKTV
-USER-AGENT,KKTV*
-USER-AGENT,com.kktv.ios.kktv*
-DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN-SUFFIX,kktv.me
-DOMAIN,kktv-theater.kk.stream
+USER-AGENT,KKTV*,KKTV
+USER-AGENT,com.kktv.ios.kktv*,KKTV
+DOMAIN-SUFFIX,kktv.com.tw,KKTV
+DOMAIN-SUFFIX,kktv.me,KKTV
+DOMAIN,kktv-theater.kk.stream,KKTV
