@@ -1,109 +1,109 @@
 # 微博
-HOST-KEYWORD,weibo,微博
+HOST-KEYWORD,weibo,JPTV
 
 # hulu
-HOST-SUFFIX,happyon.jp,hulu
-HOST-SUFFIX,hjholdings.jp,hulu
-HOST-SUFFIX,hulu.jp,hulu
-HOST-SUFFIX,prod.hjholdings.tv,hulu
-HOST-SUFFIX,streaks.jp,hulu
-HOST-SUFFIX,yb.uncn.jp,hulu
+HOST-SUFFIX,happyon.jp,JPTV
+HOST-SUFFIX,hjholdings.jp,JPTV
+HOST-SUFFIX,hulu.jp,JPTV
+HOST-SUFFIX,prod.hjholdings.tv,JPTV
+HOST-SUFFIX,streaks.jp,JPTV
+HOST-SUFFIX,yb.uncn.jp,JPTV
 
 # TVer
-HOST-SUFFIX,dogatch.jp,TVer
-HOST-SUFFIX,edge.api.brightcove.com,TVer
-HOST-SUFFIX,gorin.jp,TVer
-HOST-SUFFIX,screens-lab.jp,TVer
-HOST-SUFFIX,tver.co.jp,TVer
-HOST-SUFFIX,tver.jp,TVer
-USER-AGENT,TVer-Release*,TVer
+HOST-SUFFIX,dogatch.jp,JPTV
+HOST-SUFFIX,edge.api.brightcove.com,JPTV
+HOST-SUFFIX,gorin.jp,JPTV
+HOST-SUFFIX,screens-lab.jp,JPTV
+HOST-SUFFIX,tver.co.jp,JPTV
+HOST-SUFFIX,tver.jp,JPTV
+USER-AGENT,TVer-Release*,JPTV
 
 # FOD
-HOST-SUFFIX,fujitv.co.jp,FOD
-HOST-SUFFIX,stream.ne.jp,FOD
-HOST,measure.ic.tver.jp,FOD
-USER-AGENT,FOD*,FOD
+HOST-SUFFIX,fujitv.co.jp,JPTV
+HOST-SUFFIX,stream.ne.jp,JPTV
+HOST,measure.ic.tver.jp,JPTV
+USER-AGENT,FOD*,JPTV
 
 # Paravi
-HOST-SUFFIX,paravi.jp,Paravi
-USER-AGENT,Paravi*,Paravi
+HOST-SUFFIX,paravi.jp,JPTV
+USER-AGENT,Paravi*,JPTV
 
 # GYAO!
-HOST-SUFFIX,yahoo.co.jp,GYAO!
-HOST-SUFFIX,yimg.jp,GYAO!
-HOST-SUFFIX,yahooapis.jp,GYAO!
-HOST-SUFFIX,tidaltv.com,GYAO!
-USER-AGENT,GYAO*,GYAO!
+HOST-SUFFIX,yahoo.co.jp,JPTV
+HOST-SUFFIX,yimg.jp,JPTV
+HOST-SUFFIX,yahooapis.jp,JPTV
+HOST-SUFFIX,tidaltv.com,JPTV
+USER-AGENT,GYAO*,JPTV
 
 # ABEMA
-DOMAIN-SUFFIX,abema.io,ABEMA
-DOMAIN-SUFFIX,abema.tv,ABEMA
-DOMAIN-SUFFIX,akamaized.net,ABEMA
-DOMAIN-SUFFIX,ameba.jp,ABEMA
-DOMAIN-SUFFIX,hayabusa.io,ABEMA
-DOMAIN-KEYWORD,abematv.akamaized.net,ABEMA
-USER-AGENT,AbemaTV*,ABEMA
+DOMAIN-SUFFIX,abema.io,JPTV
+DOMAIN-SUFFIX,abema.tv,JPTV
+DOMAIN-SUFFIX,akamaized.net,JPTV
+DOMAIN-SUFFIX,ameba.jp,JPTV
+DOMAIN-SUFFIX,hayabusa.io,JPTV
+DOMAIN-KEYWORD,abematv.akamaized.net,JPTV
+USER-AGENT,AbemaTV*,JPTV
 
 # U-NEXT
-DOMAIN-SUFFIX,unext.jp,U-NEXT
-DOMAIN-SUFFIX,nxtv.jp,U-NEXT
-DOMAIN,us-central1-u-next-apps.cloudfunctions.net,U-NEXT
+DOMAIN-SUFFIX,unext.jp,JPTV
+DOMAIN-SUFFIX,nxtv.jp,JPTV
+DOMAIN,us-central1-u-next-apps.cloudfunctions.net,JPTV
 
 # TikTok
-HOST,p16-tiktokcdn-com.akamaized.net,TikTok
-HOST-SUFFIX,byteoversea.com,TikTok
-HOST-SUFFIX,ibytedtos.com,TikTok
-HOST-SUFFIX,ibyteimg.com,TikTok
-HOST-SUFFIX,ipstatp.com,TikTok
-HOST-SUFFIX,muscdn.com,TikTok
-HOST-SUFFIX,musical.ly,TikTok
-HOST-SUFFIX,sgpstatp.com,TikTok
-HOST-SUFFIX,snssdk.com,TikTok
-HOST-SUFFIX,tik-tokapi.com,TikTok
-HOST-SUFFIX,tiktok.com,TikTok
-HOST-SUFFIX,tiktokcdn.com,TikTok
-HOST-SUFFIX,tiktokv.com,TikTok
-HOST-KEYWORD,-tiktokcdn-com,TikTok
-HOST-KEYWORD,musical.ly,TikTok
-HOST-KEYWORD,tiktok,TikTok
-HOST-KEYWORD,tiktokcdn-,TikTok
-HOST-KEYWORD,tiktokv,TikTok
-USER-AGENT,TikTok*,TikTok
+HOST,p16-tiktokcdn-com.akamaized.net,JPTV
+HOST-SUFFIX,byteoversea.com,JPTV
+HOST-SUFFIX,ibytedtos.com,JPTV
+HOST-SUFFIX,ibyteimg.com,JPTV
+HOST-SUFFIX,ipstatp.com,JPTV
+HOST-SUFFIX,muscdn.com,JPTV
+HOST-SUFFIX,musical.ly,JPTV
+HOST-SUFFIX,sgpstatp.com,JPTV
+HOST-SUFFIX,snssdk.com,JPTV
+HOST-SUFFIX,tik-tokapi.com,JPTV
+HOST-SUFFIX,tiktok.com,JPTV
+HOST-SUFFIX,tiktokcdn.com,JPTV
+HOST-SUFFIX,tiktokv.com,JPTV
+HOST-KEYWORD,-tiktokcdn-com,JPTV
+HOST-KEYWORD,musical.ly,JPTV
+HOST-KEYWORD,tiktok,JPTV
+HOST-KEYWORD,tiktokcdn-,JPTV
+HOST-KEYWORD,tiktokv,JPTV
+USER-AGENT,TikTok*,JPTV
 
 # LINE
-HOST-SUFFIX,lin.ee,LINE
-HOST-SUFFIX,line-apps.com,LINE
-HOST-SUFFIX,line-cdn.net,LINE
-HOST-SUFFIX,line-scdn.net,LINE
-HOST-SUFFIX,line.me,LINE
-HOST-SUFFIX,linecorp.com,LINE
-HOST-SUFFIX,naver.jp,LINE
-HOST-SUFFIX,nhncorp.jp,LINE
-IP-CIDR,103.2.28.0/22,LINE
-IP-CIDR,119.235.224.0/21,LINE
-IP-CIDR,119.235.232.0/23,LINE
-IP-CIDR,119.235.235.0/24,LINE
-IP-CIDR,119.235.236.0/23,LINE
-IP-CIDR,125.209.208.0/20,LINE
-IP-CIDR,125.6.146.0/24,LINE
-IP-CIDR,125.6.149.0/24,LINE
-IP-CIDR,125.6.190.0/24,LINE
-IP-CIDR,147.92.128.0/17,LINE
-IP-CIDR,203.104.103.0/24,LINE
-IP-CIDR,203.104.128.0/20,LINE
-IP-CIDR,203.104.144.0/21,LINE
-IP-CIDR,203.174.66.64/26,LINE
-IP-CIDR,203.174.77.0/24,LINE
-HOST-SUFFIX,line.me,LINE
+HOST-SUFFIX,lin.ee,JPTV
+HOST-SUFFIX,line-apps.com,JPTV
+HOST-SUFFIX,line-cdn.net,JPTV
+HOST-SUFFIX,line-scdn.net,JPTV
+HOST-SUFFIX,line.me,JPTV
+HOST-SUFFIX,linecorp.com,JPTV
+HOST-SUFFIX,naver.jp,JPTV
+HOST-SUFFIX,nhncorp.jp,JPTV
+IP-CIDR,103.2.28.0/22,JPTV
+IP-CIDR,119.235.224.0/21,JPTV
+IP-CIDR,119.235.232.0/23,JPTV
+IP-CIDR,119.235.235.0/24,JPTV
+IP-CIDR,119.235.236.0/23,JPTV
+IP-CIDR,125.209.208.0/20,JPTV
+IP-CIDR,125.6.146.0/24,JPTV
+IP-CIDR,125.6.149.0/24,JPTV
+IP-CIDR,125.6.190.0/24,JPTV
+IP-CIDR,147.92.128.0/17,JPTV
+IP-CIDR,203.104.103.0/24,JPTV
+IP-CIDR,203.104.128.0/20,JPTV
+IP-CIDR,203.104.144.0/21,JPTV
+IP-CIDR,203.174.66.64/26,JPTV
+IP-CIDR,203.174.77.0/24,JPTV
+HOST-SUFFIX,line.me,JPTV
 
 # ニコニコ
-USER-AGENT,Niconico*,ニコニコ
-DOMAIN-SUFFIX,dmc.nico,ニコニコ
-DOMAIN-SUFFIX,nicodic.jp,ニコニコ
-DOMAIN-SUFFIX,nicomanga.jp,ニコニコ
-DOMAIN-SUFFIX,niconico.com,ニコニコ
-DOMAIN-SUFFIX,nicoseiga.jp,ニコニコ
-DOMAIN-SUFFIX,nicovideo.jp,ニコニコ
-DOMAIN-SUFFIX,nimg.jp,ニコニコ
-DOMAIN-SUFFIX,simg.jp,ニコニコ
-DOMAIN-SUFFIX,socdm.com,ニコニコ
+USER-AGENT,Niconico*,JPTV
+DOMAIN-SUFFIX,dmc.nico,JPTV
+DOMAIN-SUFFIX,nicodic.jp,JPTV
+DOMAIN-SUFFIX,nicomanga.jp,JPTV
+DOMAIN-SUFFIX,niconico.com,JPTV
+DOMAIN-SUFFIX,nicoseiga.jp,JPTV
+DOMAIN-SUFFIX,nicovideo.jp,JPTV
+DOMAIN-SUFFIX,nimg.jp,JPTV
+DOMAIN-SUFFIX,simg.jp,JPTV
+DOMAIN-SUFFIX,socdm.com,JPTV
