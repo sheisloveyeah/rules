@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,5ch.net,JapanMedia
 
 # メルカリ
 DOMAIN-SUFFIX,mercari.jp,JapanMedia
+DOMAIN-SUFFIX,jp.mercari.com,JapanMedia
 
 # 楽天ラクマ
 DOMAIN-SUFFIX,fril.jp,JapanMedia
