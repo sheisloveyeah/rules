@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,5ch.net
 
 # メルカリ
 DOMAIN-SUFFIX,mercari.jp
+DOMAIN-SUFFIX,jp.mercari.com
 
 # 楽天ラクマ
 DOMAIN-SUFFIX,fril.jp
