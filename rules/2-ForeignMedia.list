@@ -11,3 +11,9 @@ DOMAIN-SUFFIX,mantan-web.jp
 
 # 5ちゃんねる
 DOMAIN-SUFFIX,5ch.net
+
+# メルカリ
+DOMAIN-SUFFIX,mercari.jp
+
+# 楽天ラクマ
+DOMAIN-SUFFIX,fril.jp
