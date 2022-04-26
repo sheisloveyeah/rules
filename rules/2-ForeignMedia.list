@@ -13,8 +13,35 @@ DOMAIN-SUFFIX,mantan-web.jp,JapanMedia
 DOMAIN-SUFFIX,5ch.net,JapanMedia
 
 # メルカリ
-DOMAIN-SUFFIX,mercari.jp,JapanMedia
-DOMAIN-SUFFIX,jp.mercari.com,JapanMedia
+DOMAIN,jp.mercari.com,JapanMedia
+DOMAIN,api.mercari.jp,JapanMedia
+DOMAIN,o118814.ingest.sentry.io,JapanMedia
+DOMAIN-SUFFIX,mercdn.net,JapanMedia
+DOMAIN-SUFFIX,mercari.com,JapanMedia
+DOMAIN-KEYWORD,mercari,JapanMedia
 
 # 楽天ラクマ
 DOMAIN-SUFFIX,fril.jp,JapanMedia
+DOMAIN-SUFFIX,ebates.com,JapanMedia
+DOMAIN-SUFFIX,infoseek.co.jp,JapanMedia
+DOMAIN-SUFFIX,o50.jp,JapanMedia
+DOMAIN-SUFFIX,r10.to,JapanMedia
+DOMAIN-SUFFIX,r10s.com,JapanMedia
+DOMAIN-SUFFIX,r10s.jp,JapanMedia
+DOMAIN-SUFFIX,rakuten-static.com,JapanMedia
+DOMAIN-SUFFIX,rakuten.ca,JapanMedia
+DOMAIN-SUFFIX,rakuten.co.jp,JapanMedia
+DOMAIN-SUFFIX,rakuten.com,JapanMedia
+DOMAIN-SUFFIX,rakuten.com.tw,JapanMedia
+DOMAIN-SUFFIX,rakuten.ne.jp,JapanMedia
+DOMAIN-SUFFIX,rakuten.tw
+DOMAIN-SUFFIX,rclon.com
+DOMAIN-SUFFIX,rebates.jp
+DOMAIN-SUFFIX,showtime.co.jp
+DOMAIN-SUFFIX,viber.co.jp
+DOMAIN-SUFFIX,viber.com
+
+# ヤフオク！
+
+DOMAIN-SUFFIX,yahoo.co.jp,JapanMedia
+DOMAIN-KEYWORD,yahoo,JapanMedia
