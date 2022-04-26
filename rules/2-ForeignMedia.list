@@ -18,6 +18,7 @@ DOMAIN,api.mercari.jp
 DOMAIN,o118814.ingest.sentry.io
 DOMAIN-SUFFIX,mercdn.net
 DOMAIN-SUFFIX,mercari.com
+DOMAIN-KEYWORD,mercari
 
 # 楽天ラクマ
 DOMAIN-SUFFIX,fril.jp
@@ -39,3 +40,8 @@ DOMAIN-SUFFIX,rebates.jp
 DOMAIN-SUFFIX,showtime.co.jp
 DOMAIN-SUFFIX,viber.co.jp
 DOMAIN-SUFFIX,viber.com
+
+# ヤフオク！
+
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-KEYWORD,yahoo
