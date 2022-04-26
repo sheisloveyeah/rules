@@ -32,14 +32,12 @@ DOMAIN-SUFFIX,rakuten-static.com,JapanMedia
 DOMAIN-SUFFIX,rakuten.ca,JapanMedia
 DOMAIN-SUFFIX,rakuten.co.jp,JapanMedia
 DOMAIN-SUFFIX,rakuten.com,JapanMedia
-DOMAIN-SUFFIX,rakuten.com.tw,JapanMedia
 DOMAIN-SUFFIX,rakuten.ne.jp,JapanMedia
-DOMAIN-SUFFIX,rakuten.tw
-DOMAIN-SUFFIX,rclon.com
-DOMAIN-SUFFIX,rebates.jp
-DOMAIN-SUFFIX,showtime.co.jp
-DOMAIN-SUFFIX,viber.co.jp
-DOMAIN-SUFFIX,viber.com
+DOMAIN-SUFFIX,rclon.com,JapanMedia
+DOMAIN-SUFFIX,rebates.jp,JapanMedia
+DOMAIN-SUFFIX,showtime.co.jp,JapanMedia
+DOMAIN-SUFFIX,viber.co.jp,JapanMedia
+DOMAIN-SUFFIX,viber.com,JapanMedia
 DOMAIN-KEYWORD,rakuten,JapanMedia
 
 # ヤフオク！
