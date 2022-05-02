@@ -1,4 +1,9 @@
 # 微博
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-SUFFIX,s.weibo.com
+DOMAIN-SUFFIX,kefu.weibo.com
 DOMAIN-KEYWORD,weibo
 
 # hulu
