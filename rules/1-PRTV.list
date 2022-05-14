@@ -1,22 +1,22 @@
 # Paramount+
 
-USER-AGENT,PPlus*,PRTV
-DOMAIN-SUFFIX,cbsi.com,PRTV
-DOMAIN-SUFFIX,cbsaavideo.com,PRTV
-DOMAIN-SUFFIX,cbsivideo.com,PRTV
-DOMAIN-SUFFIX,paramountplus.com,PRTV
-DOMAIN-SUFFIX,pplusstatic.com,PRTV
-DOMAIN,cbsi.live.ott.irdeto.com,PRTV
-DOMAIN,cbsplaylistserver.aws.syncbak.com,PRTV
-DOMAIN,cbsservice.aws.syncbak.com,PRTV
-DOMAIN,link.theplatform.com,PRTV
+USER-AGENT,PPlus*,USTV
+DOMAIN-SUFFIX,cbsi.com,USTV
+DOMAIN-SUFFIX,cbsaavideo.com,USTV
+DOMAIN-SUFFIX,cbsivideo.com,USTV
+DOMAIN-SUFFIX,paramountplus.com,USTV
+DOMAIN-SUFFIX,pplusstatic.com,USTV
+DOMAIN,cbsi.live.ott.irdeto.com,USTV
+DOMAIN,cbsplaylistserver.aws.syncbak.com,USTV
+DOMAIN,cbsservice.aws.syncbak.com,USTV
+DOMAIN,link.theplatform.com,USTV
 
 # HBO
 
-USER-AGENT,HBO%20NOW*,PRTV
-DOMAIN-SUFFIX,hbo.com,PRTV
-DOMAIN-SUFFIX,hbogo.com,PRTV
-DOMAIN-SUFFIX,hbonow.com,PRTV
-USER-AGENT,HBOMAX*,PRTV
-DOMAIN-SUFFIX,hbomax.com,PRTV
-DOMAIN-SUFFIX,hbomaxcdn.com,PRTV
+USER-AGENT,HBO%20NOW*,USTV
+DOMAIN-SUFFIX,hbo.com,USTV
+DOMAIN-SUFFIX,hbogo.com,USTV
+DOMAIN-SUFFIX,hbonow.com,USTV
+USER-AGENT,HBOMAX*,USTV
+DOMAIN-SUFFIX,hbomax.com,USTV
+DOMAIN-SUFFIX,hbomaxcdn.com,USTV
