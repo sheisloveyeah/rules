@@ -1,0 +1,22 @@
+# Paramount+
+
+USER-AGENT,PPlus*,Paramount+
+DOMAIN-SUFFIX,cbsi.com,Paramount+
+DOMAIN-SUFFIX,cbsaavideo.com,Paramount+
+DOMAIN-SUFFIX,cbsivideo.com,Paramount+
+DOMAIN-SUFFIX,paramountplus.com,Paramount+
+DOMAIN-SUFFIX,pplusstatic.com,Paramount+
+DOMAIN,cbsi.live.ott.irdeto.com,Paramount+
+DOMAIN,cbsplaylistserver.aws.syncbak.com,Paramount+
+DOMAIN,cbsservice.aws.syncbak.com,Paramount+
+DOMAIN,link.theplatform.com,Paramount+
+
+# HBO
+
+USER-AGENT,HBO%20NOW*,HBO
+DOMAIN-SUFFIX,hbo.com,HBO
+DOMAIN-SUFFIX,hbogo.com,HBO
+DOMAIN-SUFFIX,hbonow.com,HBO
+USER-AGENT,HBOMAX*,HBO
+DOMAIN-SUFFIX,hbomax.com,HBO
+DOMAIN-SUFFIX,hbomaxcdn.com,HBO
