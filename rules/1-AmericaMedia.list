@@ -1,0 +1,20 @@
+# Paramount+
+USER-AGENT,PPlus*,AmericaMedia
+DOMAIN-SUFFIX,cbsi.com,AmericaMedia
+DOMAIN-SUFFIX,cbsaavideo.com,AmericaMedia
+DOMAIN-SUFFIX,cbsivideo.com,AmericaMedia
+DOMAIN-SUFFIX,paramountplus.com,AmericaMedia
+DOMAIN-SUFFIX,pplusstatic.com,AmericaMedia
+DOMAIN,cbsi.live.ott.irdeto.com,AmericaMedia
+DOMAIN,cbsplaylistserver.aws.syncbak.com,AmericaMedia
+DOMAIN,cbsservice.aws.syncbak.com,AmericaMedia
+DOMAIN,link.theplatform.com,AmericaMedia
+
+# HBO
+USER-AGENT,HBO%20NOW*,AmericaMedia
+DOMAIN-SUFFIX,hbo.com,AmericaMedia
+DOMAIN-SUFFIX,hbogo.com,AmericaMedia
+DOMAIN-SUFFIX,hbonow.com,AmericaMedia
+USER-AGENT,HBOMAX*,AmericaMedia
+DOMAIN-SUFFIX,hbomax.com,AmericaMedia
+DOMAIN-SUFFIX,hbomaxcdn.com,AmericaMedia
