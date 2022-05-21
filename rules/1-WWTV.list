@@ -1,6 +1,3 @@
-# 微博
-HOST-KEYWORD,weibo,JPTV
-
 # hulu
 HOST-SUFFIX,happyon.jp,JPTV
 HOST-SUFFIX,hjholdings.jp,JPTV
@@ -48,27 +45,6 @@ USER-AGENT,AbemaTV*,JPTV
 DOMAIN-SUFFIX,unext.jp,JPTV
 DOMAIN-SUFFIX,nxtv.jp,JPTV
 DOMAIN,us-central1-u-next-apps.cloudfunctions.net,JPTV
-
-# TikTok
-HOST,p16-tiktokcdn-com.akamaized.net,JPTV
-HOST-SUFFIX,byteoversea.com,JPTV
-HOST-SUFFIX,ibytedtos.com,JPTV
-HOST-SUFFIX,ibyteimg.com,JPTV
-HOST-SUFFIX,ipstatp.com,JPTV
-HOST-SUFFIX,muscdn.com,JPTV
-HOST-SUFFIX,musical.ly,JPTV
-HOST-SUFFIX,sgpstatp.com,JPTV
-HOST-SUFFIX,snssdk.com,JPTV
-HOST-SUFFIX,tik-tokapi.com,JPTV
-HOST-SUFFIX,tiktok.com,JPTV
-HOST-SUFFIX,tiktokcdn.com,JPTV
-HOST-SUFFIX,tiktokv.com,JPTV
-HOST-KEYWORD,-tiktokcdn-com,JPTV
-HOST-KEYWORD,musical.ly,JPTV
-HOST-KEYWORD,tiktok,JPTV
-HOST-KEYWORD,tiktokcdn-,JPTV
-HOST-KEYWORD,tiktokv,JPTV
-USER-AGENT,TikTok*,JPTV
 
 # LINE
 HOST-SUFFIX,lin.ee,JPTV
