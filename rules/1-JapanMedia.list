@@ -49,31 +49,6 @@ DOMAIN-KEYWORD,yahoo,JapanMedia
 DOMAIN,p16-tiktokcdn-com.akamaized.net,JapanMedia
 DOMAIN-SUFFIX,byteoversea.com,JapanMedia
 
-# LINE
-HOST-SUFFIX,lin.ee,JapanMedia
-HOST-SUFFIX,line-apps.com,JapanMedia
-HOST-SUFFIX,line-cdn.net,JapanMedia
-HOST-SUFFIX,line-scdn.net,JapanMedia
-HOST-SUFFIX,line.me,JapanMedia
-HOST-SUFFIX,linecorp.com,JapanMedia
-HOST-SUFFIX,naver.jp,JapanMedia
-HOST-SUFFIX,nhncorp.jp,JapanMedia
-IP-CIDR,103.2.28.0/22,JapanMedia
-IP-CIDR,119.235.224.0/21,JapanMedia
-IP-CIDR,119.235.232.0/23,JapanMedia
-IP-CIDR,119.235.235.0/24,JapanMedia
-IP-CIDR,119.235.236.0/23,JapanMedia
-IP-CIDR,125.209.208.0/20,JapanMedia
-IP-CIDR,125.6.146.0/24,JapanMedia
-IP-CIDR,125.6.149.0/24,JapanMedia
-IP-CIDR,125.6.190.0/24,JapanMedia
-IP-CIDR,147.92.128.0/17,JapanMedia
-IP-CIDR,203.104.103.0/24,JapanMedia
-IP-CIDR,203.104.128.0/20,JapanMedia
-IP-CIDR,203.104.144.0/21,JapanMedia
-IP-CIDR,203.174.66.64/26,JapanMedia
-IP-CIDR,203.174.77.0/24,JapanMedia
-HOST-SUFFIX,line.me,JapanMedia
 DOMAIN-SUFFIX,ibytedtos.com,JapanMedia
 DOMAIN-SUFFIX,ibyteimg.com,JapanMedia
 DOMAIN-SUFFIX,ipstatp.com,JapanMedia
@@ -105,7 +80,33 @@ HOST-SUFFIX,tiktok.com,JapanMedia
 HOST-SUFFIX,tiktokcdn.com,JapanMedia
 HOST-SUFFIX,tiktokv.com,JapanMedia
 HOST-KEYWORD,-tiktokcdn-com,JapanMedia
-USER-AGENT,TikTok*,TikTok,JapanMedia
+USER-AGENT,TikTok*,JapanMedia
+
+# LINE
+HOST-SUFFIX,lin.ee,JapanMedia
+HOST-SUFFIX,line-apps.com,JapanMedia
+HOST-SUFFIX,line-cdn.net,JapanMedia
+HOST-SUFFIX,line-scdn.net,JapanMedia
+HOST-SUFFIX,line.me,JapanMedia
+HOST-SUFFIX,linecorp.com,JapanMedia
+HOST-SUFFIX,naver.jp,JapanMedia
+HOST-SUFFIX,nhncorp.jp,JapanMedia
+IP-CIDR,103.2.28.0/22,JapanMedia
+IP-CIDR,119.235.224.0/21,JapanMedia
+IP-CIDR,119.235.232.0/23,JapanMedia
+IP-CIDR,119.235.235.0/24,JapanMedia
+IP-CIDR,119.235.236.0/23,JapanMedia
+IP-CIDR,125.209.208.0/20,JapanMedia
+IP-CIDR,125.6.146.0/24,JapanMedia
+IP-CIDR,125.6.149.0/24,JapanMedia
+IP-CIDR,125.6.190.0/24,JapanMedia
+IP-CIDR,147.92.128.0/17,JapanMedia
+IP-CIDR,203.104.103.0/24,JapanMedia
+IP-CIDR,203.104.128.0/20,JapanMedia
+IP-CIDR,203.104.144.0/21,JapanMedia
+IP-CIDR,203.174.66.64/26,JapanMedia
+IP-CIDR,203.174.77.0/24,JapanMedia
+HOST-SUFFIX,line.me,JapanMedia
 
 # hulu
 HOST-SUFFIX,happyon.jp,JapanMedia
