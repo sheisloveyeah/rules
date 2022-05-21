@@ -1,0 +1,33 @@
+# KKTV
+DOMAIN-SUFFIX,ssl.kkbox.com/billing.php?state=mykkid,TaiwanMedia
+DOMAIN-SUFFIX,.surveycake.com,TaiwanMedia
+DOMAIN-SUFFIX,surveycake.com,TaiwanMedia
+DOMAIN-SUFFIX,www.surveycake.com,TaiwanMedia
+DOMAIN-SUFFIX,email-messaging.com,TaiwanMedia
+DOMAIN-SUFFIX,.email-messaging.com,TaiwanMedia
+DOMAIN-SUFFIX,kkbox.email-messaging.com,TaiwanMedia
+USER-AGENT,*KKBOX,TaiwanMedia
+DOMAIN-SUFFIX,kkbox.com,TaiwanMedia
+DOMAIN-SUFFIX,kkbox.com.tw,TaiwanMedia
+DOMAIN-SUFFIX,kfs.io,TaiwanMedia
+USER-AGENT,KKTV*,TaiwanMedia
+USER-AGENT,com.kktv*,TaiwanMedia
+DOMAIN-SUFFIX,kktv.me,TaiwanMedia
+DOMAIN-SUFFIX,kktv.com.tw,TaiwanMedia
+DOMAIN,kktv-theater.kk.stream,TaiwanMedia
+DOMAIN,theater-kktv.cdn.hinet.net,TaiwanMedia
+
+# 動畫瘋
+DOMAIN,gamer.com.tw,TaiwanMedia
+DOMAIN,.gamer.com.tw,TaiwanMedia
+DOMAIN,*.gamer.com.tw,TaiwanMedia
+DOMAIN,api.gamer.com.tw,TaiwanMedia
+DOMAIN-SUFFIX,gamer.com.tw,TaiwanMedia
+DOMAIN-SUFFIX,.gamer.com.tw,TaiwanMedia
+DOMAIN-SUFFIX,*.gamer.com.tw,TaiwanMedia
+DOMAIN-SUFFIX,api.gamer.com.tw,TaiwanMedia
+USER-AGENT,Anime*,TaiwanMedia
+DOMAIN-SUFFIX,bahamut.com.tw,TaiwanMedia
+DOMAIN-SUFFIX,gamer.com.tw,TaiwanMedia
+DOMAIN,gamer-cds.cdn.hinet.net,TaiwanMedia
+DOMAIN,gamer2-cds.cdn.hinet.net,TaiwanMedia
