@@ -112,61 +112,61 @@ HOST-KEYWORD,-tiktokcdn-com,JapanMedia
 USER-AGENT,TikTok*,TikTok,JapanMedia
 
 # hulu
-HOST-SUFFIX,happyon.jp,JPTV
-HOST-SUFFIX,hjholdings.jp,JPTV
-HOST-SUFFIX,hulu.jp,JPTV
-HOST-SUFFIX,prod.hjholdings.tv,JPTV
-HOST-SUFFIX,streaks.jp,JPTV
-HOST-SUFFIX,yb.uncn.jp,JPTV
+HOST-SUFFIX,happyon.jp,JapanMedia
+HOST-SUFFIX,hjholdings.jp,JapanMedia
+HOST-SUFFIX,hulu.jp,JapanMedia
+HOST-SUFFIX,prod.hjholdings.tv,JapanMedia
+HOST-SUFFIX,streaks.jp,JapanMedia
+HOST-SUFFIX,yb.uncn.jp,JapanMedia
 
 # TVer
-HOST-SUFFIX,dogatch.jp,JPTV
-HOST-SUFFIX,edge.api.brightcove.com,JPTV
-HOST-SUFFIX,gorin.jp,JPTV
-HOST-SUFFIX,screens-lab.jp,JPTV
-HOST-SUFFIX,tver.co.jp,JPTV
-HOST-SUFFIX,tver.jp,JPTV
-USER-AGENT,TVer-Release*,JPTV
+HOST-SUFFIX,dogatch.jp,JapanMedia
+HOST-SUFFIX,edge.api.brightcove.com,JapanMedia
+HOST-SUFFIX,gorin.jp,JapanMedia
+HOST-SUFFIX,screens-lab.jp,JapanMedia
+HOST-SUFFIX,tver.co.jp,JapanMedia
+HOST-SUFFIX,tver.jp,JapanMedia
+USER-AGENT,TVer-Release*,JapanMedia
 
 # FOD
-HOST-SUFFIX,fujitv.co.jp,JPTV
-HOST-SUFFIX,stream.ne.jp,JPTV
-HOST,measure.ic.tver.jp,JPTV
-USER-AGENT,FOD*,JPTV
+HOST-SUFFIX,fujitv.co.jp,JapanMedia
+HOST-SUFFIX,stream.ne.jp,JapanMedia
+HOST,measure.ic.tver.jp,JapanMedia
+USER-AGENT,FOD*,JapanMedia
 
 # Paravi
-HOST-SUFFIX,paravi.jp,JPTV
-USER-AGENT,Paravi*,JPTV
+HOST-SUFFIX,paravi.jp,JapanMedia
+USER-AGENT,Paravi*,JapanMedia
 
 # GYAO!
-HOST-SUFFIX,yahoo.co.jp,JPTV
-HOST-SUFFIX,yimg.jp,JPTV
-HOST-SUFFIX,yahooapis.jp,JPTV
-HOST-SUFFIX,tidaltv.com,JPTV
-USER-AGENT,GYAO*,JPTV
+HOST-SUFFIX,yahoo.co.jp,JapanMedia
+HOST-SUFFIX,yimg.jp,JapanMedia
+HOST-SUFFIX,yahooapis.jp,JapanMedia
+HOST-SUFFIX,tidaltv.com,JapanMedia
+USER-AGENT,GYAO*,JapanMedia
 
 # ABEMA
-DOMAIN-SUFFIX,abema.io,JPTV
-DOMAIN-SUFFIX,abema.tv,JPTV
-DOMAIN-SUFFIX,akamaized.net,JPTV
-DOMAIN-SUFFIX,ameba.jp,JPTV
-DOMAIN-SUFFIX,hayabusa.io,JPTV
-DOMAIN-KEYWORD,abematv.akamaized.net,JPTV
-USER-AGENT,AbemaTV*,JPTV
+DOMAIN-SUFFIX,abema.io,JapanMedia
+DOMAIN-SUFFIX,abema.tv,JapanMedia
+DOMAIN-SUFFIX,akamaized.net,JapanMedia
+DOMAIN-SUFFIX,ameba.jp,JapanMedia
+DOMAIN-SUFFIX,hayabusa.io,JapanMedia
+DOMAIN-KEYWORD,abematv.akamaized.net,JapanMedia
+USER-AGENT,AbemaTV*,JapanMedia
 
 # U-NEXT
-DOMAIN-SUFFIX,unext.jp,JPTV
-DOMAIN-SUFFIX,nxtv.jp,JPTV
-DOMAIN,us-central1-u-next-apps.cloudfunctions.net,JPTV
+DOMAIN-SUFFIX,unext.jp,JapanMedia
+DOMAIN-SUFFIX,nxtv.jp,JapanMedia
+DOMAIN,us-central1-u-next-apps.cloudfunctions.net,JapanMedia
 
 # ニコニコ
-USER-AGENT,Niconico*,JPTV
-DOMAIN-SUFFIX,dmc.nico,JPTV
-DOMAIN-SUFFIX,nicodic.jp,JPTV
-DOMAIN-SUFFIX,nicomanga.jp,JPTV
-DOMAIN-SUFFIX,niconico.com,JPTV
-DOMAIN-SUFFIX,nicoseiga.jp,JPTV
-DOMAIN-SUFFIX,nicovideo.jp,JPTV
-DOMAIN-SUFFIX,nimg.jp,JPTV
-DOMAIN-SUFFIX,simg.jp,JPTV
-DOMAIN-SUFFIX,socdm.com,JPTV
+USER-AGENT,Niconico*,JapanMedia
+DOMAIN-SUFFIX,dmc.nico,JapanMedia
+DOMAIN-SUFFIX,nicodic.jp,JapanMedia
+DOMAIN-SUFFIX,nicomanga.jp,JapanMedia
+DOMAIN-SUFFIX,niconico.com,JapanMedia
+DOMAIN-SUFFIX,nicoseiga.jp,JapanMedia
+DOMAIN-SUFFIX,nicovideo.jp,JapanMedia
+DOMAIN-SUFFIX,nimg.jp,JapanMedia
+DOMAIN-SUFFIX,simg.jp,JapanMedia
+DOMAIN-SUFFIX,socdm.com,JapanMedia
