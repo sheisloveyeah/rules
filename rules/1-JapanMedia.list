@@ -107,13 +107,9 @@ IP-CIDR,203.174.66.64/26,JapanMedia
 IP-CIDR,203.174.77.0/24,JapanMedia
 HOST-SUFFIX,line.me,JapanMedia
 
-# hulu
-HOST-SUFFIX,happyon.jp,JapanMedia
-HOST-SUFFIX,hjholdings.jp,JapanMedia
-HOST-SUFFIX,hulu.jp,JapanMedia
-HOST-SUFFIX,prod.hjholdings.tv,JapanMedia
-HOST-SUFFIX,streaks.jp,JapanMedia
-HOST-SUFFIX,yb.uncn.jp,JapanMedia
+# Paravi
+HOST-SUFFIX,paravi.jp,JapanMedia
+USER-AGENT,Paravi*,JapanMedia
 
 # TVer
 HOST-SUFFIX,dogatch.jp,JapanMedia
@@ -124,23 +120,6 @@ HOST-SUFFIX,tver.co.jp,JapanMedia
 HOST-SUFFIX,tver.jp,JapanMedia
 USER-AGENT,TVer-Release*,JapanMedia
 
-# FOD
-HOST-SUFFIX,fujitv.co.jp,JapanMedia
-HOST-SUFFIX,stream.ne.jp,JapanMedia
-HOST,measure.ic.tver.jp,JapanMedia
-USER-AGENT,FOD*,JapanMedia
-
-# Paravi
-HOST-SUFFIX,paravi.jp,JapanMedia
-USER-AGENT,Paravi*,JapanMedia
-
-# GYAO!
-HOST-SUFFIX,yahoo.co.jp,JapanMedia
-HOST-SUFFIX,yimg.jp,JapanMedia
-HOST-SUFFIX,yahooapis.jp,JapanMedia
-HOST-SUFFIX,tidaltv.com,JapanMedia
-USER-AGENT,GYAO*,JapanMedia
-
 # ABEMA
 DOMAIN-SUFFIX,abema.io,JapanMedia
 DOMAIN-SUFFIX,abema.tv,JapanMedia
@@ -150,10 +129,31 @@ DOMAIN-SUFFIX,hayabusa.io,JapanMedia
 DOMAIN-KEYWORD,abematv.akamaized.net,JapanMedia
 USER-AGENT,AbemaTV*,JapanMedia
 
+# GYAO!
+HOST-SUFFIX,yahoo.co.jp,JapanMedia
+HOST-SUFFIX,yimg.jp,JapanMedia
+HOST-SUFFIX,yahooapis.jp,JapanMedia
+HOST-SUFFIX,tidaltv.com,JapanMedia
+USER-AGENT,GYAO*,JapanMedia
+
 # U-NEXT
 DOMAIN-SUFFIX,unext.jp,JapanMedia
 DOMAIN-SUFFIX,nxtv.jp,JapanMedia
 DOMAIN,us-central1-u-next-apps.cloudfunctions.net,JapanMedia
+
+# hulu
+HOST-SUFFIX,happyon.jp,JapanMedia
+HOST-SUFFIX,hjholdings.jp,JapanMedia
+HOST-SUFFIX,hulu.jp,JapanMedia
+HOST-SUFFIX,prod.hjholdings.tv,JapanMedia
+HOST-SUFFIX,streaks.jp,JapanMedia
+HOST-SUFFIX,yb.uncn.jp,JapanMedia
+
+# FOD
+HOST-SUFFIX,fujitv.co.jp,JapanMedia
+HOST-SUFFIX,stream.ne.jp,JapanMedia
+HOST,measure.ic.tver.jp,JapanMedia
+USER-AGENT,FOD*,JapanMedia
 
 # ニコニコ
 USER-AGENT,Niconico*,JapanMedia
