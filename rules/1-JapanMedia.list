@@ -42,17 +42,14 @@ DOMAIN-SUFFIX,viber.com,JapanMedia
 DOMAIN-KEYWORD,rakuten,JapanMedia
 
 # ヤフオク！
-
 DOMAIN-SUFFIX,yahoo.co.jp,JapanMedia
 DOMAIN-KEYWORD,yahoo,JapanMedia
 
 #TikTok
-
 DOMAIN,p16-tiktokcdn-com.akamaized.net,JapanMedia
 DOMAIN-SUFFIX,byteoversea.com,JapanMedia
 
 # LINE
-
 HOST-SUFFIX,lin.ee,JapanMedia
 HOST-SUFFIX,line-apps.com,JapanMedia
 HOST-SUFFIX,line-cdn.net,JapanMedia
