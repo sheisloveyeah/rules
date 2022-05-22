@@ -1,5 +1,9 @@
 # 微博
 HOST-KEYWORD,weibo,JapanMedia
+USER-AGENT,*weibo*,JapanMedia
+USER-AGENT,*Weibo*,JapanMedia
+HOST-SUFFIX,weibo.com,JapanMedia
+HOST-SUFFIX,weibo.cn,JapanMedia
 
 # 毎日キレイ
 DOMAIN-SUFFIX,mainichikirei.jp,JapanMedia
