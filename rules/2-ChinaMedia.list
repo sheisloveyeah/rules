@@ -38,6 +38,8 @@ DOMAIN-SUFFIX,zggbdszt.net.cn,ChinaMediia
 DOMAIN-SUFFIX,zygbdszt.net.cn,ChinaMediia
 
 #咪咕视频
+USER-AGENT,MiguVideo*,ChinaMediia
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91,ChinaMediia
 DOMAIN-SUFFIX,lovev.com,ChinaMediia
 DOMAIN-SUFFIX,lovev.cn,ChinaMediia
 DOMAIN-SUFFIX,cmvideo.cn,ChinaMediia
