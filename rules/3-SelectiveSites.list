@@ -200,6 +200,7 @@ DOMAIN-SUFFIX,cableav.tw
 DOMAIN-SUFFIX,iwant-sex.com
 DOMAIN-SUFFIX,avple.tv
 DOMAIN-SUFFIX,badassdownloader.com
+DOMAIN-KEYWORD,nhentai
 
 # Don't Download
 PROCESS-NAME,aria2c.exe
