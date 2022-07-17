@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,fujitv.co.jp
 DOMAIN-SUFFIX,stream.ne.jp
 DOMAIN,measure.ic.tver.jp
+DOMAIN-SUFFIX,fod.fujitv.co.jp/
 
 # Paravi
 DOMAIN-SUFFIX,paravi.jp
