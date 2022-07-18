@@ -1,4 +1,3 @@
-# Don't Watch
 DOMAIN-SUFFIX,phncdn.com,SelectiveSites
 DOMAIN-SUFFIX,phprcdn.com,SelectiveSites
 DOMAIN-SUFFIX,pornhub.com,SelectiveSites
@@ -202,30 +201,3 @@ DOMAIN-SUFFIX,xxx-project.com,SelectiveSites
 DOMAIN-SUFFIX,yesebang.net,SelectiveSites
 DOMAIN-SUFFIX,youporn.com,SelectiveSites
 DOMAIN-KEYWORD,nhentai,SelectiveSites
-
-# Don't Download
-DOMAIN-SUFFIX,awesome-hd.me,SelectiveSites
-DOMAIN-SUFFIX,broadcasthe.net,SelectiveSites
-DOMAIN-SUFFIX,chdbits.co,SelectiveSites
-DOMAIN-SUFFIX,classix-unlimited.co.uk,SelectiveSites
-DOMAIN-SUFFIX,empornium.me,SelectiveSites
-DOMAIN-SUFFIX,gazellegames.net,SelectiveSites
-DOMAIN-SUFFIX,hdchina.org,SelectiveSites
-DOMAIN-SUFFIX,hdsky.me,SelectiveSites
-DOMAIN-SUFFIX,icetorrent.org,SelectiveSites
-DOMAIN-SUFFIX,jpopsuki.eu,SelectiveSites
-DOMAIN-SUFFIX,keepfrds.com,SelectiveSites
-DOMAIN-SUFFIX,madsrevolution.net,SelectiveSites
-DOMAIN-SUFFIX,m-team.cc,SelectiveSites
-DOMAIN-SUFFIX,nanyangpt.com,SelectiveSites
-DOMAIN-SUFFIX,ncore.cc,SelectiveSites
-DOMAIN-SUFFIX,open.cd,SelectiveSites
-DOMAIN-SUFFIX,ourbits.club,SelectiveSites
-DOMAIN-SUFFIX,passthepopcorn.me,SelectiveSites
-DOMAIN-SUFFIX,privatehd.to,SelectiveSites
-DOMAIN-SUFFIX,redacted.ch,SelectiveSites
-DOMAIN-SUFFIX,springsunday.net,SelectiveSites
-DOMAIN-SUFFIX,tjupt.org,SelectiveSites
-DOMAIN-SUFFIX,totheglory.im,SelectiveSites
-DOMAIN-SUFFIX,rarbgprx.org,SelectiveSites
-DOMAIN-SUFFIX,eyny.com,SelectiveSites
