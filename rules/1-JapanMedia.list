@@ -63,3 +63,6 @@ DOMAIN-KEYWORD,rakuten
 # ヤフオク！
 DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-KEYWORD,yahoo
+
+# Tower of Fantasy
+DOMAIN-KEYWORD,toweroffantasy
