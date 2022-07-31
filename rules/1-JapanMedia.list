@@ -64,5 +64,8 @@ DOMAIN-KEYWORD,rakuten
 DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-KEYWORD,yahoo
 
+# mora.jp
+DOMAIN-SUFFIX,mora.jp
+
 # Tower of Fantasy
 DOMAIN-KEYWORD,toweroffantasy
