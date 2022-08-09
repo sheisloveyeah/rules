@@ -1,1 +1,9 @@
+# Paravi
+USER-AGENT,Paravi*,Paravi
+DOMAIN-SUFFIX,paravi.jp,Paravi
 
+# GYAO!
+PROCESS-NAME,jp.co.yahoo.gyao.android.app,GYAO!
+DOMAIN-SUFFIX,yahoo.co.jp,GYAO!
+DOMAIN-SUFFIX,yimg.jp,GYAO!
+DOMAIN-SUFFIX,yahooapis.jp,GYAO!
