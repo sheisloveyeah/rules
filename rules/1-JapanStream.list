@@ -1,0 +1,13 @@
+# Paravi
+DOMAIN-SUFFIX,paravi.jp
+
+# GYAO!
+PROCESS-NAME,jp.co.yahoo.gyao.android.app
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yimg.jp
+DOMAIN-SUFFIX,yahooapis.jp
+
+# U-NEXT
+DOMAIN-SUFFIX,unext.jp
+DOMAIN-SUFFIX,nxtv.jp
+DOMAIN,us-central1-u-next-apps.cloudfunctions.net
