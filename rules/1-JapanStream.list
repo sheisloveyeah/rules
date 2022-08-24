@@ -3,7 +3,11 @@ USER-AGENT,Paravi*,Paravi
 DOMAIN-SUFFIX,paravi.jp,Paravi
 
 # GYAO!
-PROCESS-NAME,jp.co.yahoo.gyao.android.app,GYAO!
+USER-AGENT,GYAO!*,GYAO!
 DOMAIN-SUFFIX,yahoo.co.jp,GYAO!
 DOMAIN-SUFFIX,yimg.jp,GYAO!
 DOMAIN-SUFFIX,yahooapis.jp,GYAO!
+
+# WOWOW
+USER-AGENT,WOWOW*,WOWOW
+DOMAIN-SUFFIX,wowow.co.jp,WOWOW
