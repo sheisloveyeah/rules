@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,securepubads,REJECT
 
 # 豆瓣
 DOMAIN-SUFFIX,erebor.douban.com,REJECT
+DOMAIN,at1.doubanio.com,REJECT
+DOMAIN,at2.doubanio.com,REJECT
+DOMAIN-SUFFIX,ad.doubanio.com,REJECT
 DOMAIN-SUFFIX,pinduoduo.com,REJECT
 DOMAIN-SUFFIX,iflyad,REJECT
 DOMAIN-SUFFIX,voiceads,REJECT
