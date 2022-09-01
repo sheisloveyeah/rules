@@ -17,9 +17,3 @@ IP-CIDR,183.60.0.0/18,ChinaMusic
 IP-CIDR,101.88.0.0/13,ChinaMusic
 IP-CIDR,119.147.0.0/17,ChinaMusic
 IP-CIDR,183.3.192.0/18,ChinaMusic
-
-#豆瓣
-USER-AGENT,%E8%B1%86%E7%93%A3*#豆瓣,ChinaMusic
-DOMAIN-SUFFIX, douban.com,ChinaMusic
-DOMAIN-SUFFIX, doubanio.com,ChinaMusic
-DOMAIN-SUFFIX, douban.fm,ChinaMusic
