@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,evtubescms.phncdn.com,REJECT
 
 # tokyomotion.net
 DOMAIN-SUFFIX,syndication.realsrv.com,REJECT
+
+# 豆瓣
+DOMAIN-SUFFIX,pinduoduo.com,REJECT
