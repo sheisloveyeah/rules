@@ -1,6 +1,7 @@
 #QQ音乐
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90*#QQ音乐,ChinaMusic
 USER-AGENT,QQmusic*,ChinaMusic
+DOMAIN-SUFFIX,aod.cos.tx.xmcdn.com,ChinaMusic
 DOMAIN-SUFFIX,music.qq.com,ChinaMusic
 DOMAIN-SUFFIX,y.qq.com,ChinaMusic
 DOMAIN-SUFFIX,qqmusic.qq.com,ChinaMusic
