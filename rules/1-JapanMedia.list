@@ -47,3 +47,8 @@ DOMAIN-KEYWORD,toweroffantasy,JapanMedia
 
 #ローチケット
 DOMAIN-SUFFIX,l-tike,JapanMedia
+
+# WEAR
+USER-AGENT,WEAR*,JapanMedia
+DOMAIN-SUFFIX,wear.jp,JapanMedia
+DOMAIN-SUFFIX,wimg.jp,JapanMedia
