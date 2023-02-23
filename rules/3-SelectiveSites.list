@@ -202,6 +202,7 @@ DOMAIN-SUFFIX,avple.tv
 DOMAIN-SUFFIX,badassdownloader.com
 DOMAIN-KEYWORD,nhentai
 DOMAIN-KEYWORD,kobo
+DOMAIN-KEYWORD,kox.moe
 
 # Don't Download
 PROCESS-NAME,aria2c.exe
