@@ -1,14 +1,13 @@
 # MTV
 DOMAIN-SUFFIX,mtvjapan.com
 
-# 毎日キレイ
-DOMAIN-SUFFIX,mainichikirei.jp
-
 # クランクイン！
 DOMAIN-SUFFIX,crank-in.net
 
 # MANTANWEB
 DOMAIN-SUFFIX,mantan-web.jp
+DOMAIN-KEYWORD,maidigitv
+DOMAIN-KEYWORD,mainichikirei
 
 # 5ちゃんねる
 DOMAIN-SUFFIX,5ch.net
