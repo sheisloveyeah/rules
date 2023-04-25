@@ -55,3 +55,6 @@ DOMAIN-SUFFIX,l-tike.com
 # WEAR
 DOMAIN-SUFFIX,wear.jp
 DOMAIN-SUFFIX,wimg.jp
+
+# radiko
+DOMAIN-KEYWORD,radiko
