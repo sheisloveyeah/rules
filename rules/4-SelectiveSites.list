@@ -201,8 +201,9 @@ DOMAIN-SUFFIX,iwant-sex.com
 DOMAIN-SUFFIX,avple.tv
 DOMAIN-SUFFIX,badassdownloader.com
 DOMAIN-KEYWORD,nhentai
-DOMAIN-KEYWORD,kobo
 DOMAIN-KEYWORD,kox.moe
+DOMAIN-SUFFIX,18comic
+DOMAIN-SUFFIX,wnacg
 
 # Don't Download
 PROCESS-NAME,aria2c.exe
@@ -251,3 +252,4 @@ DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,rarbgprx.org
 DOMAIN-SUFFIX,eyny.com
+
