@@ -38,6 +38,9 @@ DOMAIN-SUFFIX,viber.co.jp,JapanMedia
 DOMAIN-SUFFIX,viber.com,JapanMedia
 DOMAIN-KEYWORD,rakuten,JapanMedia
 
+#TOYOTAwallet
+DOMAIN-KEYWORD,toyota-wallet,JapanMedia
+
 # ヤフオク！
 DOMAIN-SUFFIX,yahoo.co.jp,JapanMedia
 DOMAIN-KEYWORD,yahoo,JapanMedia
