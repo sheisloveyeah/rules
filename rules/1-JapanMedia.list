@@ -53,7 +53,7 @@ DOMAIN-KEYWORD,yahoo,JapanMedia
 DOMAIN-KEYWORD,toweroffantasy,JapanMedia
 
 #ローチケット
-DOMAIN-SUFFIX,l-tike,JapanMedia
+DOMAIN-KEYWORD,l-tike,JapanMedia
 
 # WEAR
 USER-AGENT,WEAR*,JapanMedia
