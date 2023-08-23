@@ -40,6 +40,7 @@ DOMAIN-KEYWORD,rakuten,JapanMedia
 
 #TOYOTAwallet
 DOMAIN-KEYWORD,toyota-wallet,JapanMedia
+DOMAIN-KEYWORD,tspay-api,JapanMedia
 
 # ヤフオク！
 DOMAIN-SUFFIX,yahoo.co.jp,JapanMedia
