@@ -204,6 +204,7 @@ DOMAIN-KEYWORD,nhentai
 DOMAIN-KEYWORD,kox.moe
 DOMAIN-SUFFIX,18comic
 DOMAIN-SUFFIX,wnacg
+DOMAIN-SUFFIX,buffstreamz
 
 # Don't Download
 PROCESS-NAME,aria2c.exe
@@ -252,4 +253,3 @@ DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,rarbgprx.org
 DOMAIN-SUFFIX,eyny.com
-
