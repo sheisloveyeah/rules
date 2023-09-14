@@ -200,11 +200,12 @@ DOMAIN-SUFFIX,cableav.tw
 DOMAIN-SUFFIX,iwant-sex.com
 DOMAIN-SUFFIX,avple.tv
 DOMAIN-SUFFIX,badassdownloader.com
+DOMAIN-SUFFIX,kox.moe
+DOMAIN-SUFFIX,buffstreamz.fun
 DOMAIN-KEYWORD,nhentai
-DOMAIN-KEYWORD,kox.moe
-DOMAIN-SUFFIX,18comic
-DOMAIN-SUFFIX,wnacg
-DOMAIN-SUFFIX,buffstreamz
+DOMAIN-KEYWORD,18comic
+DOMAIN-KEYWORD,wnacg
+
 
 # Don't Download
 PROCESS-NAME,aria2c.exe
